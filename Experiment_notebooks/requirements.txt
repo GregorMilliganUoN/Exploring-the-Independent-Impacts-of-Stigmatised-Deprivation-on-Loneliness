@@ -1,0 +1,7 @@
+numpy==1.22.4 
+Cython==0.29.25 
+pandas==1.3.5 
+matplotlib==3.5.1 
+seaborn==0.11.2 
+shap==0.39.0 
+scikit-learn==1.5.2
