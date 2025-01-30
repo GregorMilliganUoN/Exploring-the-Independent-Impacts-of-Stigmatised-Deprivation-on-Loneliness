@@ -20,8 +20,8 @@ To create a suitable environment:
 python -m venv env or virtualenv -p /path/to/required/python/version .venv
 source .venv/bin/activate
 We recommend installing the following package versions:
-install numpy==1.22.4 
-Cython==0.29.25 
+install numpy==1.22.4 \n
+Cython==0.29.25 /n
 pandas==1.3.5
 matplotlib==3.5.1 
 seaborn==0.11.2
