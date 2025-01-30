@@ -19,7 +19,12 @@ git clone https://github.com/...
 To create a suitable environment:
 python -m venv env or virtualenv -p /path/to/required/python/version .venv
 source .venv/bin/activate
-We recommend installing the following package versions !pip install numpy==1.22.4 Cython==0.29.25 pandas==1.3.5 matplotlib==3.5.1 seaborn==0.11.2
+We recommend installing the following package versions:
+install numpy==1.22.4 
+Cython==0.29.25 
+pandas==1.3.5
+matplotlib==3.5.1 
+seaborn==0.11.2
 pip install git+https://github.com/gavin-s-smith/mcrforest
 pip install -r requirements.txt
 
